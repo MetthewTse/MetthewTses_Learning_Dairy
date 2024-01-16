@@ -50,4 +50,16 @@ public class Algorithm_1_twoSum {
         }
         throw new RuntimeException("NOT FOUND");
     }
+
+
+    public int[] solution2(int[] nums,int target) {
+        Map<Integer,Integer> targetMap = new HashMap<>();
+        for (int i=0;i<nums.length-1;i++) {
+            if (targetMap.containsKey(target-nums[i])){
+                return new int[]{targetMap.get(target-nums[i]),i};
+            }
+            targetMap.put(nums[i],i);
+        }
+        throw new RuntimeException("NOT FOUND");
+    }
 }
