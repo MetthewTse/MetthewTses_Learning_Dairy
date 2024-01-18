@@ -51,5 +51,11 @@
             <version>2.3.1</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-generator</artifactId>
+            <version>3.5.3</version>
+        </dependency>
     </dependencies>
 </project>
