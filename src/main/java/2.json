@@ -1,0 +1,372 @@
+{
+  "ysj_salt": [
+    {
+      "salt_key": "om.cph.cam_local_pic_path",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.sensor.vendor",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.product.manufacturer",
+      "salt_value": "Huawei"
+    },
+    {
+      "salt_key": "ro.hardware.fps.cph",
+      "salt_value": "60"
+    },
+    {
+      "salt_key": "sim_number",
+      "salt_value": "46000"
+    },
+    {
+      "salt_key": "ro.hardware",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "sim_country",
+      "salt_value": "cn"
+    },
+    {
+      "salt_key": "ro.build.date.utc",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.bootimage.build.fingerprint",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "iccid",
+      "salt_value": "15718879183604874081"
+    },
+    {
+      "salt_key": "gsm_country",
+      "salt_value": "cn"
+    },
+    {
+      "salt_key": "ro.product.name",
+      "salt_value": "monbox"
+    },
+    {
+      "salt_key": "ro.com.cph.toast_enable",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "com.cph.cg.sign_check_url",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.hardware.gpurenderer",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.build.id",
+      "salt_value": "IElEiQvRhCdhuQo8FlDMugmou2qvSqfMnwBEHjOzF1lnzPuFYoM78vL51CxquuUq"
+    },
+    {
+      "salt_key": "sys.prop.writewifissid",
+      "salt_value": "wifi-123120010"
+    },
+    {
+      "salt_key": "ro.product.locale",
+      "salt_value": "zh-CN"
+    },
+    {
+      "salt_key": "phone_num",
+      "salt_value": "18986055475"
+    },
+    {
+      "salt_key": "ro.bootloader",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.com.cph.remote_input_method",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "com.cph.mainkeys",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "phone_type",
+      "salt_value": "cloudphone"
+    },
+    {
+      "salt_key": "gsm.sim.operator.alpha",
+      "salt_value": "CMCC"
+    },
+    {
+      "salt_key": "ro.build.display.id",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.board.platform",
+      "salt_value": "hi3660"
+    },
+    {
+      "salt_key": "sys.prop.writephonenum",
+      "salt_value": "18986055475"
+    },
+    {
+      "salt_key": "com.cph.cg.event_notify_url",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.permission.changed",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "gsm_operator",
+      "salt_value": "CMCC"
+    },
+    {
+      "salt_key": "com.cph.cg.heartbeat_url",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.cg.h5_port",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "gsm.version.baseband",
+      "salt_value": "21C20B526S000C002"
+    },
+    {
+      "salt_key": "phone_brand",
+      "salt_value": "Huawei"
+    },
+    {
+      "salt_key": "ro.hardware.dpi",
+      "salt_value": "320"
+    },
+    {
+      "salt_key": "ro.com.cph.non_root",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "ro.build.product",
+      "salt_value": "STF"
+    },
+    {
+      "salt_key": "ro.build.description",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.install.auto",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "ro.serialno",
+      "salt_value": "uRiiPTkpW1te11jk"
+    },
+    {
+      "salt_key": "gsm_number",
+      "salt_value": "46000"
+    },
+    {
+      "salt_key": "ro.com.cph.cloud_app_engine",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "build_id",
+      "salt_value": "IElEiQvRhCdhuQo8FlDMugmou2qvSqfMnwBEHjOzF1lnzPuFYoM78vL51CxquuUq"
+    },
+    {
+      "salt_key": "ro.product.board",
+      "salt_value": "STF"
+    },
+    {
+      "salt_key": "sys.prop.writeimei",
+      "salt_value": "869287490150821"
+    },
+    {
+      "salt_key": "disable.status.bar",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "com.cph.cg_type",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "ro.build.version.incremental",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.com.cph.notification_disable",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "ro.horizontal.screen",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "ro.hardware.stream.fps",
+      "salt_value": "60"
+    },
+    {
+      "salt_key": "imsi",
+      "salt_value": "460007082864510"
+    },
+    {
+      "salt_key": "persist.sys.locale",
+      "salt_value": "Aasa"
+    },
+    {
+      "salt_key": "gsm.operator.numeric",
+      "salt_value": "46000"
+    },
+    {
+      "salt_key": "com.cph.encode_type",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "gsm.operator.iso-country",
+      "salt_value": "cn"
+    },
+    {
+      "salt_key": "hide_navigate",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "ro.product.brand",
+      "salt_value": "Huawei"
+    },
+    {
+      "salt_key": "mac_address",
+      "salt_value": "ea:b6:bb:73:94:17"
+    },
+    {
+      "salt_key": "gsm.sim.operator.iso-country",
+      "salt_value": "cn"
+    },
+    {
+      "salt_key": "ro.build.flavor",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "gsm.operator.alpha",
+      "salt_value": "CMCC"
+    },
+    {
+      "salt_key": "ro.sf.lcd_density",
+      "salt_value": "320"
+    },
+    {
+      "salt_key": "ro.product.model",
+      "salt_value": "cloudphone"
+    },
+    {
+      "salt_key": "sim_operator",
+      "salt_value": "CMCC"
+    },
+    {
+      "salt_key": "com.cph.system.app.install_time",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.disable_fb_permission",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "gsm.sim.operator.numeric",
+      "salt_value": "46000"
+    },
+    {
+      "salt_key": "qemu.hw.mainkeys",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "sys.prop.writeimsi",
+      "salt_value": "460007082864510"
+    },
+    {
+      "salt_key": "com.cph.use_beta_webview",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.cg.heartbeat_interval",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.bandwidth_limit",
+      "salt_value": "-1"
+    },
+    {
+      "salt_key": "ro.com.cph.audio_format",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "sys.prop.writesimserial",
+      "salt_value": "15718879183604874081"
+    },
+    {
+      "salt_key": "android.id",
+      "salt_value": "Ok3lYgVXRpSCHA5P"
+    },
+    {
+      "salt_key": "serial_num",
+      "salt_value": "uRiiPTkpW1te11jk"
+    },
+    {
+      "salt_key": "com.cph.wifi.bssid",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.com.cph.mac_address",
+      "salt_value": "ea:b6:bb:73:94:17"
+    },
+    {
+      "salt_key": "ro.product.device",
+      "salt_value": "HWSTF"
+    },
+    {
+      "salt_key": "com.cph.network.type",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "ro.hardware.wc.supported",
+      "salt_value": "1"
+    },
+    {
+      "salt_key": "ro.baseband",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.build.fingerprint",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "com.cph.cg.app_port",
+      "salt_value": ""
+    },
+    {
+      "salt_key": "ro.hardware.height",
+      "salt_value": "1280"
+    },
+    {
+      "salt_key": "wifi_name",
+      "salt_value": "wifi-12312"
+    },
+    {
+      "salt_key": "ro.com.cph.sfs_enable",
+      "salt_value": "0"
+    },
+    {
+      "salt_key": "imei",
+      "salt_value": "869287490150821"
+    },
+    {
+      "salt_key": "android_id",
+      "salt_value": "Ok3lYgVXRpSCHA5P"
+    },
+    {
+      "salt_key": "ro.hardware.width",
+      "salt_value": "720"
+    },
+    {
+      "salt_key": "com.cph.media_engine.version",
+      "salt_value": "3"
+    }
+  ]
+}
