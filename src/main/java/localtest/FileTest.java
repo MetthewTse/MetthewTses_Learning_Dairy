@@ -1,30 +1,14 @@
 package localtest;
 
-import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
+import cn.hutool.crypto.digest.MD5;
+
+import java.nio.charset.StandardCharsets;
 
 public class FileTest {
     public static void main(String[] args) {
-        try {
-            InputStreamReader inputStream = new InputStreamReader(Files.newInputStream(Paths.get("D:/text.txt")));
-            List<String> stringList = new ArrayList<>();
-            stringList.add("1");
-            stringList.add("2");
-            stringList.add("3");
-            stringList.add("4");
-            stringList.add("5");
-            System.out.println(String.join(",",stringList));
-            BufferedReader bufferedReader = new BufferedReader(inputStream);
-            String line;
-            while ((line=bufferedReader.readLine())!=null){
-                System.out.println(line);
-            }
-            bufferedReader.close();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        String signBeforeStr="7e26914e34c8a26e8ac3c7fd137315dc1706079309123468348f7b62484e3d2e9413a7b40cb4302aabe9b110090c33c4c2b7cd260d03c43e{\"mobileNumber\":\"13177828250\"}";
+        String sign = MD5.create().digestHex(signBeforeStr, StandardCharsets.UTF_8);
+        System.out.println(sign);
+
     }
 }
